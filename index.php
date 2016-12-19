@@ -15,6 +15,9 @@ and open the template in the editor.
         
         <h2> test de gitHub</h2>
         <p>deuxieme commit</p>
+        
+        <h3>Le collaborateur ajoute ses nouveautés :-)</h3>
+        <p>Salut au créateur ( ͡° ͜ʖ ͡°)</p>
         <?php
         // put your code here
         ?>
